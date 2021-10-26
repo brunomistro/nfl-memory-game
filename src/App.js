@@ -3,12 +3,12 @@ import './App.css';
 import SingleCard from './components/SingleCard';
 
 const nflImages = [
-	{ "src": "/img/BIL.png", matched: false},
-	{ "src": "/img/ATL.png", matched: false},
-	{ "src": "/img/GB.png", matched: false },
-	{ "src": "/img/MIA.png", matched: false },
-	{ "src": "/img/SEA.png", matched: false },
-	{ "src": "/img/TEN.png", matched: false },
+	{ "src": "./img/BIL.png", matched: false},
+	{ "src": "./img/ATL.png", matched: false},
+	{ "src": "./img/GB.png", matched: false },
+	{ "src": "./img/MIA.png", matched: false },
+	{ "src": "./img/SEA.png", matched: false },
+	{ "src": "./img/TEN.png", matched: false },
 ]
 
 export default function App() {
