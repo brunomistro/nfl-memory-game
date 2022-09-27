@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/nfl-memory-game/static/css/main.c54b972f.chunk.css",
-    "main.js": "/nfl-memory-game/static/js/main.6ee74bb6.chunk.js",
-    "main.js.map": "/nfl-memory-game/static/js/main.6ee74bb6.chunk.js.map",
+    "main.css": "/nfl-memory-game/static/css/main.8e2b95bf.chunk.css",
+    "main.js": "/nfl-memory-game/static/js/main.1dcaf6db.chunk.js",
+    "main.js.map": "/nfl-memory-game/static/js/main.1dcaf6db.chunk.js.map",
     "runtime-main.js": "/nfl-memory-game/static/js/runtime-main.b0f6326c.js",
     "runtime-main.js.map": "/nfl-memory-game/static/js/runtime-main.b0f6326c.js.map",
     "static/js/2.a5774963.chunk.js": "/nfl-memory-game/static/js/2.a5774963.chunk.js",
     "static/js/2.a5774963.chunk.js.map": "/nfl-memory-game/static/js/2.a5774963.chunk.js.map",
     "index.html": "/nfl-memory-game/index.html",
-    "static/css/main.c54b972f.chunk.css.map": "/nfl-memory-game/static/css/main.c54b972f.chunk.css.map",
+    "static/css/main.8e2b95bf.chunk.css.map": "/nfl-memory-game/static/css/main.8e2b95bf.chunk.css.map",
     "static/js/2.a5774963.chunk.js.LICENSE.txt": "/nfl-memory-game/static/js/2.a5774963.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.b0f6326c.js",
     "static/js/2.a5774963.chunk.js",
-    "static/css/main.c54b972f.chunk.css",
-    "static/js/main.6ee74bb6.chunk.js"
+    "static/css/main.8e2b95bf.chunk.css",
+    "static/js/main.1dcaf6db.chunk.js"
   ]
 }
