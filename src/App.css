@@ -23,3 +23,19 @@ button:hover {
 	grid-template-columns: repeat(4, 1fr);
 	grid-gap: 20px;
 }
+
+.page-heading {
+  letter-spacing: 1px;
+  font-size: italic;
+}
+
+.page-btn {
+  border: 2px solid #f3ca07;
+  font-weight: 500;
+}
+
+.page-turn {
+  color: #f3ca07;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+}

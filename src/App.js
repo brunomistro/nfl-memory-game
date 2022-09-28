@@ -67,8 +67,8 @@ export default function App() {
 
   return (
     <div className="App">
-      <h1>NFL Memory Game</h1>
-			<button onClick={shuffleCards}>New Game</button>
+      <h1 className='pag-heading'>NFL Memory Game</h1>
+			<button className='page-btn' onClick={shuffleCards}>New Game</button>
 
 			<div className="card-grid">
 				{cards.map(card => (
@@ -81,7 +81,7 @@ export default function App() {
 					/>
 				))}
 			</div>
-			<p>Turns: {turns}</p>
+			<p><span className='page-turn'>Turns:</span> {turns}</p>
     </div>
   );
 }
